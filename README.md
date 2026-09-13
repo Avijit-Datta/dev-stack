@@ -39,7 +39,7 @@ consistent and easy to maintain.
 
 | Home Page | Tech Catalog | Your Stack Sidebar |
 |:---:|:---:|:---:|
-| ![Home Page](./screenshots/home.png) | ![Tech Catalog](./screenshots/catalog.png) | ![Stack Sidebar](./screenshots/sidebar.png) |
+| ![Hero Section](./screenshots/home.png) | ![Tech Catalog](./screenshots/catalog.png) | ![Stack Sidebar](./screenshots/sidebar.png) |
 
 </div>
 
