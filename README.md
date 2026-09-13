@@ -43,18 +43,6 @@ consistent and easy to maintain.
 
 </div>
 
-> 💡 **Want a slider-style gallery?** GitHub Markdown doesn’t support real
-> JavaScript carousels, but the table above mimics a gallery layout nicely.
-> You can also collapse extra screenshots using a `<details>` block:
-
-<details>
-<summary>📸 See more screenshots</summary>
-
-![Extra Screenshot](./screenshots/extra1.png)
-![Extra Screenshot](./screenshots/extra2.png)
-
-</details>
-
 ---
 
 ## 🛠️ Technology Used
