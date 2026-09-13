@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000000;
+  background-image:
+    radial-gradient(circle at 15% 20%, rgba(40, 189, 180, 0.18), transparent 40%),
+    radial-gradient(circle at 85% 10%, rgba(99, 136, 210, 0.16), transparent 40%),
+    radial-gradient(circle at 50% 95%, rgba(155, 61, 218, 0.16), transparent 45%);
+  background-attachment: fixed;
+  color: #C9C5D2;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3 {
+  color: #FFFFFF;
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, #28BDB4 0%, #6388D2 52%, #9B3DDA 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.stack-item {
+  animation: slideIn 0.3s ease;
+}
